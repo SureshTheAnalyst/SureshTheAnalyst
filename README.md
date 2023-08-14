@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SureshTheDataScientist
-- 👀 I’m interested in Data Science/Analytics field
+- 👀 I’m interested in the Data Science/Analytics field
 - 🌱 I’m currently working on Machine Learning projects to show in my portfolio
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on Data Science/Analytics projects
 - 📫 You can reach out to me.
 
 <!---
